@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-056",
+  "repository_name": "edu-interview-question-bank",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-interview-question-bank-v1.0.0.zip",
+  "sha256": "1420D6901EB0E460F34F9696E59ABF068086413C93AB4FB154E3D5AE26709329",
+  "bytes": 4812,
+  "entries": [
+    "edu-interview-question-bank/SKILL.md",
+    "edu-interview-question-bank/references/DOMAIN_GUIDE.md",
+    "edu-interview-question-bank/references/EXAMPLES.md",
+    "edu-interview-question-bank/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:42:23.1810865+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

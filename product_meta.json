@@ -1,0 +1,24 @@
+{
+  "number": 70,
+  "product_id": "JLZ-EDU-SK-056",
+  "chinese_name": "岗位面试题库",
+  "english_name": "Interview Question Bank",
+  "repository_name": "edu-interview-question-bank",
+  "product_type": "Skill",
+  "category": "06 人力组织中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-interview-question-bank-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "岗位、职级、能力项、业务场景、面试轮次和合规限制",
+  "main_output": "结构化题库、追问、评分维度、参考答案要点和禁用问题",
+  "package_entries": [
+    "edu-interview-question-bank/SKILL.md",
+    "edu-interview-question-bank/references/DOMAIN_GUIDE.md",
+    "edu-interview-question-bank/references/EXAMPLES.md",
+    "edu-interview-question-bank/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
